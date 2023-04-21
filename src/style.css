@@ -4,8 +4,40 @@
     box-sizing: border-box;
 }
 html{
-    background-color: darkgray;
+    
 }
 body{
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    background-color: green;
+    margin: 30px 0 50px 0;
+}
+#form{
+    display: flex;
+    background-color: blueviolet;
+    padding: 30px auto 50px auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+#datatable{
+    background-color: blue;
+    margin: 30px auto 50px auto;
+    width: 100%;
+
+}
+table{
+    width: 100%;
     background-color: aqua;
+    align-content: space-between;
+    text-align: center;
 }

@@ -1,14 +1,14 @@
 {
-  "name": "hellojs",
+  "name": "2023.04.21_nyilvantartas",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Móra Barna",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
